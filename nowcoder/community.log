@@ -1,0 +1,22 @@
+2021-07-29 16:03:46.584  INFO 6044 --- [restartedMain] c.n.community.CommunityApplication       : Starting CommunityApplication using Java 1.8.0_152 on DESKTOP-II5A23D with PID 6044 (F:\workspace\community\target\classes started by lyb in F:\workspace\community)
+2021-07-29 16:03:46.585 DEBUG 6044 --- [restartedMain] c.n.community.CommunityApplication       : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-07-29 16:03:46.585  INFO 6044 --- [restartedMain] c.n.community.CommunityApplication       : No active profile set, falling back to default profiles: default
+2021-07-29 16:03:46.752  INFO 6044 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-07-29 16:03:46.753  INFO 6044 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-07-29 16:03:46.753  INFO 6044 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-07-29 16:03:46.765  INFO 6044 --- [restartedMain] o.a.c.c.C.[.[localhost].[/community]     : Initializing Spring embedded WebApplicationContext
+2021-07-29 16:03:46.765  INFO 6044 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 179 ms
+2021-07-29 16:03:46.838  INFO 6044 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-07-29 16:03:46.861  INFO 6044 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-07-29 16:03:46.865  INFO 6044 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-07-29 16:03:46.868  INFO 6044 --- [restartedMain] c.n.community.CommunityApplication       : Started CommunityApplication in 0.302 seconds (JVM running for 70560.013)
+2021-07-29 16:03:46.869  INFO 6044 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-07-29 16:03:49.554  INFO 10548 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 1.8.0_152 on DESKTOP-II5A23D with PID 10548 (started by lyb in F:\workspace\community)
+2021-07-29 16:03:49.555 DEBUG 10548 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-07-29 16:03:49.557  INFO 10548 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2021-07-29 16:03:51.343  INFO 10548 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-07-29 16:03:51.643  INFO 10548 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 2.416 seconds (JVM running for 3.197)
+2021-07-29 16:03:51.807 DEBUG 10548 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2021-07-29 16:03:51.808  INFO 10548 --- [main] com.nowcoder.community.LoggerTests       : info log
+2021-07-29 16:03:51.808  WARN 10548 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2021-07-29 16:03:51.808 ERROR 10548 --- [main] com.nowcoder.community.LoggerTests       : error log
